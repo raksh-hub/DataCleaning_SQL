@@ -2,7 +2,7 @@
 
 A SQL data-cleaning project using the Nashville Housing dataset from Kaggle.
 
-**Source:** [Kaggle — Nashville Housing Data](https://www.kaggle.com/datasets/tmthyjames/nashville-housing-data?utm_source=chatgpt.com)
+**Source:** [Kaggle — Nashville Housing Data](https://www.kaggle.com/datasets/tmthyjames/nashville-housing-data)
 
 ## What I cleaned
 
